@@ -385,7 +385,7 @@ function uploadDLC(dlcbuf, filename, progresscb) {
     let sendPos = 0;
     let rxPackets = 0;
     let CHUNK_SIZE = 30;
-    let MAX_BUFFERED_PACKETS = 10;
+    let MAX_BUFFERED_PACKETS = 15;
     let maxRx = 0;
     let failedWrites = 0;
 
