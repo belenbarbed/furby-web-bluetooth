@@ -32,7 +32,7 @@
         "file": "newdlc.dlc", 
         "title": "Newdlc",
         "buttons": [
-            { "title": "Newdlc ", "action": [75,0,0,0] }
+            { "title": "Newdlc ", "action": [75,0,4,4] }
         ]
     },
     {
