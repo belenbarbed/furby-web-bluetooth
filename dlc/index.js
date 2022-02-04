@@ -46,7 +46,9 @@
         "file": "custom.dlc",
         "title": "Custom",
         "buttons": [
-            { "title": "Custom ", "action": [75,0,2,6] }
+            { "title": "Custom 1", "action": [75,0,2,6] },
+            { "title": "Custom 2", "action": [75,0,3,3] },
+            { "title": "Custom 3", "action": [75,0,6,2] }
         ]
     }
 ]
