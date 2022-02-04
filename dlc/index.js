@@ -34,5 +34,12 @@
         "buttons": [
             { "title": "Newdlc ", "action": [75,0,0,0] }
         ]
+    },
+    {
+        "file": "tu003410.dlc",
+        "title": "Tu003410",
+        "buttons": [
+            { "title": "Tu003410 ", "action": [75,0,4,4] }
+        ]
     }
 ]
