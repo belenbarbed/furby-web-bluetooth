@@ -41,5 +41,12 @@
         "buttons": [
             { "title": "Tu003410 ", "action": [75,0,4,4] }
         ]
+    },
+    {
+        "file": "custom.dlc",
+        "title": "Custom",
+        "buttons": [
+            { "title": "Custom ", "action": [75,0,2,6] }
+        ]
     }
 ]
